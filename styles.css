@@ -1,0 +1,26 @@
+
+.topnav {
+    background-color: #FFFFFF;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.glogo {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.formy {
+    text-align: center;
+    
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: space-between;
+    margin-top: 25px;
+}
+
